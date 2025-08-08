@@ -44,8 +44,8 @@ The project performs the following:
 - **Matplotlib** – Data visualization  
 
 ---
-
-## 📜 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+Nitya Patel
+📧 [patelnitya351@gmail.com]
+🔗 [www.linkedin.com/in/
+nitya-patel-364363319
+]
